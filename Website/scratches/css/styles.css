@@ -1,0 +1,53 @@
+body {
+  font-size: 20px;
+}
+
+p {
+  text-align:center;
+  font-size: 30px;
+}
+
+header {
+  text-align:center;
+  font-size: 50px;
+}
+
+h5 {
+  text-align:center;
+  font-size: 80px;
+}
+
+.about-me {
+background-color:#ED5EDD;
+font-family: 'Patrick Hand', cursive;
+}
+
+.passion {
+background-color:#8BDB81;
+font-family: 'Patrick Hand', cursive;
+text-align:center;
+}
+
+.links {
+background-color:#E7ED9B;
+font-family: 'Patrick Hand', cursive;
+}
+
+.column {
+  padding: 100px;
+}
+
+hr {
+  width:50%;
+  border:5px dotted;
+  color:#B4FF9F;
+  border-style: double none none;
+ }
+
+
+ footer {
+  text-align: center;
+  padding: 3px;
+  background-color:#6A5495;
+  color: white;
+}
